@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-spring-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-dubbo/sample-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-dubbo/sample-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-dubbo/sample-duubo-provider-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-transaction-message-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-aop/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

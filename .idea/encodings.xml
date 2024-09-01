@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sample-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-dubbo-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-duubo-provider-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/sample-duubo-provider-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-spring-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-spring-transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-transaction-message-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-transaction-message-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
